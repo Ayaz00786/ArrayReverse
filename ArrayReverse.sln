@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayReverse", "ArrayReverse\ArrayReverse.csproj", "{0F3287B6-16C7-48AC-93E8-655DFF6BD63B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F3287B6-16C7-48AC-93E8-655DFF6BD63B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F3287B6-16C7-48AC-93E8-655DFF6BD63B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F3287B6-16C7-48AC-93E8-655DFF6BD63B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F3287B6-16C7-48AC-93E8-655DFF6BD63B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABA42D68-A5BA-4E8A-BD84-DD3268A947F0}
+	EndGlobalSection
+EndGlobal
